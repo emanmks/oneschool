@@ -1,0 +1,1 @@
+C:\root\htdocs\andalas\app/views/issues/index.blade.php

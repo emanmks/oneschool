@@ -1,0 +1,1 @@
+C:\root\htdocs\andalas\app/views/Educations/show.blade.php
